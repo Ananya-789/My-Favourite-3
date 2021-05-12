@@ -1,0 +1,214 @@
+html {
+	scroll-behavior: smooth;
+}
+body {
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+
+
+
+
+.link {
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    color: black;
+}
+
+.links:hover {
+    background: dodgerblue;
+}
+
+.prof {
+    border-radius: 50%;
+    width: 100px;
+
+}
+
+h1 {
+    font-family: 'Rouge Script', cursive}
+
+#HOME {
+    z-index: 10;
+    background-color: hotpink;
+    padding: 70px;
+    text-align: center;
+}
+
+#Space {
+    background: linear-gradient(to right,  blue ,violet)
+}
+
+
+#MYHOBBY {
+    background: linear-gradient(to right,  blue ,violet);
+}
+.line
+{
+    background-color: black;
+    width: 120px;
+    height: 8px;
+    margin: 8px auto;
+}
+
+
+
+
+#BENEFITSOFREADING {
+    background-color: pink;
+}
+
+#Benefits {
+    font-size: 22px;
+} 
+
+#MYFAVOURITENOVELS {
+    background-color: aqua;
+}
+
+#FAV {
+    font-size: 35px;
+}    
+
+#credit1 {
+	color: lightgrey;
+}
+
+#credit2 {
+	color: lightgrey;
+}
+
+#credit3 {
+	color: lightgrey;
+}
+
+#credit4 {
+	color: lightgrey;
+}
+
+#credit5 {
+	color: lightgrey;
+}
+.button {
+	background-color: cyan;
+	border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button:hover {
+	color: red;
+}
+
+#gaheading {
+    font-family: 'Rouge Script', cursive;
+}
+
+#ga1 {
+    width: 450px;
+}
+
+#ga2 {
+    width: 450px;
+} 
+
+#ga3 {
+    width: 450px;
+}
+
+#ga4 {
+    width: 450px;
+}
+
+#headwork {
+	font-size: 35px;
+}
+.bl1 {
+	width: 370px;
+}
+
+.blogbutton {
+	background-color: darkorchid;
+	border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.bl2 {
+	width: 370px;
+}
+
+.blogbutton1 {
+	background-color: darkorchid;
+	border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.bl3 {
+	width: 370px;
+}
+
+.blogbutton2 {
+	background-color: darkorchid;
+	border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.bl4 {
+	width: 370px;
+}
+
+.blogbutton3 {
+	background-color: darkorchid;
+	border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
